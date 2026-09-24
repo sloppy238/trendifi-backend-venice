@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790070626854,
+      "tag": "0000_foamy_wolfpack",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790070817098,
+      "tag": "0001_sour_psynapse",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790071853945,
+      "tag": "0002_rich_wolfpack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1790267454259,
+      "tag": "0003_pale_cannonball",
+      "breakpoints": true
+    }
+  ]
+}
